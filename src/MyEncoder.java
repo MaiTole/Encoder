@@ -6,6 +6,8 @@ import java.util.Scanner;
 /** 
  * This code creates a cipher based on a text file input describing ccorrespondence of characters and integers. Then, the 
  * application enables users to initiate the cipher and encrypt/decrypt text based on encryption/decryption key.
+ * Due to time constraints, this program does not weed out bad input i.e. text input to encrypt/decrypt containing charahcters 
+ * that do not have a matching character in the cipher. 
  * @author maithilitole
  *
  */
